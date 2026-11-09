@@ -1,0 +1,12 @@
+{
+ "v": 2,
+ "public_key": "/ObYAWmx2wNK2ww4/+O7TcJnVsdGsNvuEjWJ9AEdWTE=",
+ "users": {
+  "Mirror": {
+   "id": "406afb19ab",
+   "salt": "370b6a83312c47e2c2c98995e1d89e10",
+   "nonce": "9f270bab1fe06db5aadd46c9",
+   "wrapped": "78fddedbabf0935d0ba97bd485f024a3051eeacf75e8c876f1610afa920baeee00d916db8d0d353366b6c23a772afef8"
+  }
+ }
+}
